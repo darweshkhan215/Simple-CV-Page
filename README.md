@@ -3,6 +3,8 @@
 ## About the Project
 It is a simple CV page built with semantic HTML.
 
+## Project URL
+[Vie my CV](https://darweshkhan215.github.io/Simple-CV-Page/)
 
 ## Technologies Used
 - HTML
